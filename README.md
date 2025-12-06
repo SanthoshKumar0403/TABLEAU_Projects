@@ -50,7 +50,4 @@ The data used in this project is packaged within the **`.twbx`** file as a Table
 
 ***
 
-
-****
-
 *Please insert a screenshot of your final dashboard here.*
